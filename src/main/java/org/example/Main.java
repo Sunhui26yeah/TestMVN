@@ -2,9 +2,10 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        int x = 1;
+        int x = 3;
         int y = 2;
-        x = y*1;
+        y = x*2;
+        System.out.println(y);
 
     }
 }

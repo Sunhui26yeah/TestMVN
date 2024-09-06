@@ -1,5 +1,5 @@
 package org.example;
-public class oldV{
+public class powExample{
     public static int snippet(int x, int y) {
         int result = 0; 
         int path = 0;
